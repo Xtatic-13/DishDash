@@ -1,17 +1,15 @@
-🍽️ DishDash App:
 A beautifully designed iOS application that allows users to browse and view delicious food recipes.
 Built using SwiftUI, this app follows best coding practices, including MVVM architecture, structured data handling, and navigation management.
 
-✨ Features
-✔️ Home Screen - Displays a list of recipes with images & descriptions.
-✔️ Recipe Detail Screen - Shows detailed information about a selected recipe.
-✔️ Navigation - Seamless transitions between screens using NavigationView.
-✔️ Dynamic UI - Uses SwiftUI components for a smooth & responsive experience.
-✔️ Data Management - Recipes are structured using Structs & Enums.
-✔️ Styled Components - Custom fonts, colors, and button styles for a premium feel.
+Features
+Home Screen - Displays a list of recipes with images & descriptions.
+Recipe Detail Screen - Shows detailed information about a selected recipe.
+Navigation - Seamless transitions between screens using NavigationView.
+Dynamic UI - Uses SwiftUI components for a smooth & responsive experience.
+Data Management - Recipes are structured using Structs & Enums.
+Styled Components - Custom fonts, colors, and button styles for a premium feel.
 
-📸 Screens
-
+Screens
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c2d0f3de-9ecb-41b5-9981-7f2ddfcf7082" width="300"/>
   <img src="https://github.com/user-attachments/assets/f276cfcd-584a-4da7-b7a0-fb424ad6fc48" width="300"/>
@@ -35,12 +33,12 @@ DishDashApp/
 │── Utilities/       # Common Utilities  
 │── DishDashApp.swift  # Entry Point  
 
-📲 How to Run the Project?
-1️⃣ Clone the Repository
+How to Run the Project?
+1) Clone the Repository
 git clone https://github.com/Xtatic-13/DishDash.git
-2️⃣ Open in Xcode
+2) Open in Xcode
 Open DishDash.xcodeproj in Xcode.
-3️⃣ Run the App
+3) Run the App
 Select an iPhone simulator and click ▶️ Run.
 
 🛠️ Future Enhancements
@@ -49,5 +47,5 @@ Select an iPhone simulator and click ▶️ Run.
 -> Support Dark Mode
 -> Animations & UI Effects Improvement
 
-💡 Contribution
+Contribution
 Feel free to fork this repository and submit pull requests! 🚀
