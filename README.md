@@ -11,9 +11,9 @@ Styled Components - Custom fonts, colors, and button styles for a premium feel.
 
 Screens
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2d0f3de-9ecb-41b5-9981-7f2ddfcf7082" width="300"/>
-  <img src="https://github.com/user-attachments/assets/f276cfcd-584a-4da7-b7a0-fb424ad6fc48" width="300"/>
-  <img src="https://github.com/user-attachments/assets/06574acc-aea7-4adb-8737-94e283a782da" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c2d0f3de-9ecb-41b5-9981-7f2ddfcf7082" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f276cfcd-584a-4da7-b7a0-fb424ad6fc48" width="200"/>
+  <img src="https://github.com/user-attachments/assets/06574acc-aea7-4adb-8737-94e283a782da" width="200"/>
 </p>
 
 🚀 Technologies Used
