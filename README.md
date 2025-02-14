@@ -9,11 +9,13 @@ Dynamic UI - Uses SwiftUI components for a smooth & responsive experience.
 Data Management - Recipes are structured using Structs & Enums.
 Styled Components - Custom fonts, colors, and button styles for a premium feel.
 
-Screens
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c2d0f3de-9ecb-41b5-9981-7f2ddfcf7082" width="200"/>
-  <img src="https://github.com/user-attachments/assets/f276cfcd-584a-4da7-b7a0-fb424ad6fc48" width="200"/>
-  <img src="https://github.com/user-attachments/assets/06574acc-aea7-4adb-8737-94e283a782da" width="200"/>
+
+UI Preview:
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/3948dc70-8533-4f0b-a598-ec4a4aadbb0d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/253b61a3-33f0-41d4-8fa0-927310fff0ea" width="250"/>
+  <img src="https://github.com/user-attachments/assets/892bfc46-988e-4400-aaf6-d135e545d087" width="250"/>
+  <img src="https://github.com/user-attachments/assets/41acbd5e-2f6a-446e-8835-6f6468e55bce" width="250"/>
 </p>
 
 🚀 Technologies Used
